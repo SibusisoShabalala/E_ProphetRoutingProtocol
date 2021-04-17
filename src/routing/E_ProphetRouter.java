@@ -1,5 +1,6 @@
 /* 
  * Copyright 2010 Aalto University, ComNet
+ *Edited by Sibusiso Shabalala (to make it Energy Efficient Routing Protocol) 
  * Released under GPLv3. See LICENSE.txt for details. 
  */
 package routing;
